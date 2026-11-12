@@ -1,5 +1,5 @@
-# Kaitlynn Stone: additional work
+# Kaitlynn Stone: work summary
 
-A follow-up page of selected work and results. Hidden from search engines.
+A follow-up page: my work, how it maps to the role, and why I fit. Hidden from search engines.
 
-https://kstone-sketch.github.io/additional-work/
+https://kstone-sketch.github.io/work-summary/
